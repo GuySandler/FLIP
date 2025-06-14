@@ -13,7 +13,7 @@ I was torn between handheld or DS style, but went with DS because it's compact a
 
 potencial detachable controllers idea.
 
-potencial trackpad
+potencial trackpad and speakers
 
 ## part reasearch (june 12 1pm-9pm, worked for about 6.5 hours):
 
@@ -51,11 +51,47 @@ https://www.aliexpress.us/item/3256805297984155.html .97$ 5 pin
 
 I really need to find better ones, all I can find are ribbons and replacements for consoles
 
-### somehow find vertical buttons for sholder stuff
+I need to somehow find vertical buttons for sholder stuff
 
-Budget so far for max preformence
-87$ on board
-~2.5$ on buttons
-~1$ on joysticks
-~21 on screen
-0 pcb (coupon)
+## part reasearch 2 (june 13):
+
+9AM:
+
+computer picked: https://www.amazon.com/dp/B0CJ2K6F7Q orange pi compute module 4 8gb 64gb storage, 60$ or 69$ with dev board
+
+4 inch serial screen 480x320 https://www.amazon.com/DWEII-480x320-Display-ST7796S-Compatible/dp/B0CQXDXVPS 18$, looks to be the same but cheaper
+
+every joysick I find has side pins and can't go on a pcb :(
+
+2PM:
+
+I found some 100 pin connectors, they are all from suspicous places
+
+https://www.aliexpress.us/item/3256804813526424.html 7.98/8.40$ + 4.65
+
+https://www.aliexpress.us/item/3256804515010680.html 12.82/21.36$ + 3.97
+
+https://www.aliexpress.us/item/3256808529916053.html 9.66/11.37$ + 4.77
+
+https://www.aliexpress.us/item/3256806302739780.html 1.63$ + 4.11
+
+I made some mochups of console to see what parts I need
+
+![top](/journalimgs/top.png "top")
+![bottom](/journalimgs/bottom.png "bottom")
+
+2:55 PM: I am in a dillema, do I use an existing board which adds thichness or go through the pain of making a mount for the CM4 becuase I need GPIOs
+
+4PM: considering a normal orange pi 4 becuase it's somehow cheaper and wayyy easier to intigrate
+
+4:25 PM: WHY IS THERE NO 8GB RAM VERSION
+
+4:42 considering going back to rasperry pi due to software compatibility
+
+5PM: my next best move is a used pi4 8gb 70$ https://www.ebay.com/itm/146206088222 or pi 5 4gb 5https://www.ebay.com/itm/186268654816
+
+started working on battery, I need a battery, charger, and meter
+
+1.86/3.72$ charging board https://www.aliexpress.us/item/3256807619448309.html
+
+batteries are so confusing to make
