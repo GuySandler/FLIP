@@ -95,3 +95,30 @@ started working on battery, I need a battery, charger, and meter
 1.86/3.72$ charging board https://www.aliexpress.us/item/3256807619448309.html
 
 batteries are so confusing to make
+
+## part reasearch 3 (june 14, scattered hours, 2-3 hours):
+
+Batteries:
+
+https://www.aliexpress.us/item/3256807240337338.html 13.03/45.17$ 2S 7.4V 3600mah
+
+https://www.aliexpress.us/item/3256807801023707.html range
+
+https://www.aliexpress.us/item/2255800287456634.html range, cheaper
+
+https://www.aliexpress.us/item/2255800287456634.html 7200 but sketchy
+
+USBC modules for charging:
+
+~~https://www.aliexpress.us/item/3256805170308324.html 1.40/4.98$, might not have balancing~~
+
+~~https://www.aliexpress.us/item/3256806796332131.html 1.16/2.33$, looks same as above~~
+
+~~https://www.aliexpress.us/item/3256806810933610.html 2.05/2.25$, might not have balancing, smaller~~
+
+those don't have balancing
+
+I might need to look at a few BMS:
+
+https://www.aliexpress.us/item/3256807828297140.html 2s 20a 1.07/3.57$
+
