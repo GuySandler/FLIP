@@ -122,3 +122,24 @@ I might need to look at a few BMS:
 
 https://www.aliexpress.us/item/3256807828297140.html 2s 20a 1.07/3.57$
 
+## part reasearch 4 (june 15):
+
+I need to cboose a battery
+
+10:06 AM: charger: https://www.aliexpress.us/item/3256806853388654.html 1.41/2.82$ 2s balanced but small
+
+came back 2:02PM
+
+2:24: https://www.aliexpress.us/item/3256806060466442.html BMS 1.22/4.29$ no balance but probablt balance, there are cheaper ones but the others are more skechy
+
+2:57: after digging through a lot of step down modules that don't have the amps I found a good one but it's ac->dc
+
+2:23: finally found something https://www.aliexpress.us/item/3256805862985136.html 5A, I think this one is actually perfect
+
+2:44: for some reason all the on off buttons are huge
+
+2:51: ~~https://www.aliexpress.us/item/3256803806710565.html cool switch 1.74/1.94$~~ it's a push
+
+3:05: https://www.aliexpress.us/item/3256808591861621.html
+
+actually screw it this is too skechy I'll just use a normal power bank, it costs the same anyway and can't turn into a fire bomb
