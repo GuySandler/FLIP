@@ -143,3 +143,23 @@ came back 2:02PM
 3:05: https://www.aliexpress.us/item/3256808591861621.html
 
 actually screw it this is too skechy I'll just use a normal power bank, it costs the same anyway and can't turn into a fire bomb
+
+## part reasearch 5 (june 16):
+
+trustworthy 10000mah from adafruit but 40$
+
+had to spend a lot of time looking for a good cheap powerbank
+
+BOM so far:
+- https://www.aliexpress.us/item/3256808376799054.html 12x12x4.3mm buttons, 2.02/2.22$
+- https://www.aliexpress.us/item/3256807375670744.html 2 5pin joystick 1.56/1.76$
+- 2x https://www.waveshare.com/pi5-display-cable.htm?sku=25943 DSI display cables 15pin to 22pin 1.89
+- 2x https://www.waveshare.com/product/displays/lcd-oled/lcd-oled-2/43h-800480-ips.htm?sku=24159 4.3 DSI display, 25/30$ no touch/touch
+- https://www.amazon.com/INIU-Portable-20000mAh-High-speed-Flashlight/dp/B07YPY31FL 20k 30/27$ OR https://www.amazon.com/INIU-Portable-Charging-10000mAh-Tablets/dp/B09176JCKZ 10k 21$
+- https://www.aliexpress.us/item/2255801012106911.html 1.55/1.84$ 10x 1x20 female pin sockets
+
+7:19pm started pcb schematic
+
+7:33pm finished
+
+![schematic](/journalimgs/schematic.png "schematic")
